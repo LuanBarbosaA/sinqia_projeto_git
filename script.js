@@ -4,5 +4,5 @@
 //     document.getElementById("button").style.display = "none";
 // });
 function tabela(){
-    document.getElementById("button").style.display = "block";
+    document.getElementById("tabela").style.display = "table";
 }
